@@ -5,7 +5,7 @@ GcPhone, updated for the newest ESX
 Ovaj projekt je kopija od orginalnog gcphonea i v3 i stavljen je pod GNU licencu
 
 # Requirements
-Official website esx_addons_gcphone -> https://github.com/N3MTV/gcphone/tree/master/resources/esx_addons_gcphone
+PLEASE USE MY esx_addons_gcphone IF YOU HAVE PROBLEMS WITH NUMBERS OR JUST USE IT IF THIS IS YOUR 1ST DOWNLOAD
 Official website new_banking -> https://github.com/NewWayRP/new_banking
 
 # Credits
